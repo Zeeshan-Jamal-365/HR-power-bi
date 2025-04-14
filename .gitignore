@@ -1,0 +1,15 @@
+# HR/Power BI HR Dashboard.pbix
+# Ignore videos and large files
+*.mp4
+*.mov
+*.zip
+*.exe
+
+# System folders
+.DS_Store
+Thumbs.db
+
+# VS Code and Python cache
+.vscode/
+__pycache__/
+*.log
