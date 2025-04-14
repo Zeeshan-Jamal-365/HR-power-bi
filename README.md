@@ -1,124 +1,50 @@
-HR Analytics Dashboard – Power BI
-This project showcases an interactive HR Analytics Dashboard developed using Microsoft Power BI. It provides comprehensive insights into various HR metrics, aiding organizations in making data-driven decisions to optimize their human resources strategies.​
-GitHub
-+11
-GitHub
-+11
-GitHub
-+11
-GitHub
+# Power BI HR Analytics Dashboard  
+**Project by Zeeshan Jamal**  
 
-📊 Overview
-The dashboard offers visual representations of key HR indicators, including:​
+![image](https://github.com/user-attachments/assets/d856ef72-0517-44a9-9408-b6e15fabfa35)
 
-Employee demographics​
-GitHub
-+11
-GitHub
-+11
-GitHub
-+11
 
-Department-wise distribution​
-GitHub
-+1
-GitHub
-+1
+---
 
-Gender ratio​
-GitHub
-+11
-GitHub
-+11
-GitHub
-+11
+## 📊 Key Insights  
 
-Attrition rates​
-GitHub
-+11
-GitHub
-+11
-GitHub
-+11
+### **Promotion Eligibility**  
+- **Not Due for Promotion:** 1,404 employees (95.5%)  
+- **Service Years Breakdown:**  
+  - Employees with 1-10 days of service analyzed for promotion readiness.  
 
-Performance metrics​
-GitHub
-+8
-GitHub
-+8
-GitHub
-+8
+### **Employee Demographics**  
+- **Total Employees:** 1,470  
+  - **Male:** 882 (60%)  
+  - **Female:** 588 (40%)  
 
-By analyzing these metrics, stakeholders can identify trends, monitor workforce dynamics, and implement effective HR policies.​
-GitHub
-+7
-GitHub
-+7
-GitHub
-+7
+### **Employment Status**  
+- **Active Employees (On Service):** 1,353 (92.0%)  
+- **Eligible for Retrenchment:** 117 (8.0%)  
 
-🗂️ Project Structure
-The repository contains the following files:​
+### **Distance from Workplace**  
+- **Very Close:** 229 (15.58%)  
+- **Close:** 301 (20.48%)  
+- **Very Far:** 940 (63.95%)  
 
-Zeeshan_Jamal_Power_BI_project_01.pbix: The main Power BI dashboard file.​
-GitHub
-+1
-GitHub
-+1
+### **Job Level Distribution**  
+- **Level 1:** 945  
+- **Level 2:** 554  
+- **Level 3:** 216  
+- **Level 4-5:** 106  
 
-Zeeshan_Jamal_Power_BI_project_01.pdf: A PDF version of the dashboard for quick reference.​
+---
 
-Clustered HR Data: Dataset used for creating the dashboard.​
-GitHub
-+1
-GitHub
-+1
+## 🛠 Skills Demonstrated  
+- **Data Visualization:** Clean, interactive dashboards in Power BI.  
+- **HR Analytics:** Metrics on promotions, diversity, and workforce planning.  
+- **Data Storytelling:** Clear insights for decision-making.  
 
-male.png, female.png, hr-manager.png: Icons used within the dashboard for visual enhancement.​
-GitHub
+---
 
-WhatsApp Image 2024-12-06 at 01.19.12_943b260b.jpg: An illustrative image related to the project.​
+## 🌟 Why This Stands Out  
+- **Actionable Metrics:** Highlights retention risks (e.g., retrenchment candidates).  
+- **Diversity Focus:** Tracks gender distribution.  
+- **Geographic Insights:** Analyzes employee proximity to workplace.  
 
-🛠️ Getting Started
-To explore the dashboard:
-
-Ensure you have Microsoft Power BI Desktop installed.​
-GitHub
-
-Download the repository files.​
-
-Open Zeeshan_Jamal_Power_BI_project_01.pbix using Power BI Desktop.​
-GitHub
-+2
-GitHub
-+2
-GitHub
-+2
-
-Interact with the dashboard to explore various HR insights.​
-GitHub
-+11
-GitHub
-+11
-GitHub
-+11
-
-📌 Features
-Interactive Visuals: Engage with dynamic charts and graphs for in-depth analysis.​
-GitHub
-
-User-Friendly Interface: Navigate through the dashboard with ease.​
-GitHub
-+6
-GitHub
-+6
-GitHub
-+6
-
-Comprehensive Metrics: Access a wide range of HR data points in one place.​
-
-📷 Dashboard Preview
-
-📄 License
-This project is open-source and available under the MIT License.​
-
+*Ready to leverage data for strategic HR decisions? Let’s connect!*  
